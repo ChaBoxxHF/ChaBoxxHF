@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![](https://media.giphy.com/media/IeOjczQqeoklW/giphy.gif)
+![un gif du thousand sunny, le bateau de l'équipage au chapeau de paille de l'oeuvre One Piece d'Eiichirō Oda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCUiBISZF1IrRhPv7QAh6gW26b35XZZPj0noavJ6q&s)
 
 <!--
 **ChaBoxxHF/ChaBoxxHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
