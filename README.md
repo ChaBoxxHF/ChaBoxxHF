@@ -1,4 +1,4 @@
-# Bienvenue à bord!
+# :fr: Bienvenue à bord! :fr:
 
 ![un gif du thousand sunny, le bateau de l'équipage au chapeau de paille de l'oeuvre One Piece d'Eiichirō Oda](https://media.giphy.com/media/IeOjczQqeoklW/giphy.gif)
 
